@@ -21,6 +21,6 @@
 
 <style>
 .main-title {
-  font-size: 5rem;
+  font-size: 4rem;
 }
 </style>
