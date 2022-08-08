@@ -13,6 +13,8 @@
       <a class="link" href="https://mys.1024.cab">https://mys.1024.cab</a>
       <br>
       <a class="link" href="https://tools.1024.cab">https://tools.1024.cab</a>
+      <br>
+      <a class="link" href="https://short.1024.cab">https://short.1024.cab</a>
     </p>
   </div>
 </template>
