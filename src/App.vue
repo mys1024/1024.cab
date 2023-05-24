@@ -16,6 +16,8 @@
       <a class="link" href="https://tixy.1024.cab">https://tixy.1024.cab</a>
       <br>
       <a class="link" href="https://chatroom.1024.cab">https://chatroom.1024.cab</a>
+      <br>
+      <a class="link" href="https://chat.1024.cab">https://chat.1024.cab</a>
     </p>
   </div>
 </template>
