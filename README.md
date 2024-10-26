@@ -1,3 +1,3 @@
 # 1024.cab
 
-An index of `https://*.1024.cab`
+The index for `https://*.1024.cab`
