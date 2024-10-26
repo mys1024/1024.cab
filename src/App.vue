@@ -15,7 +15,7 @@
       <br>
       <a class="link" href="https://tixy.1024.cab">https://tixy.1024.cab</a>
       <br>
-      <a class="link" href="https://ts.1024.cab">https://ts.1024.cab</a>
+      <a class="link" href="https://st.1024.cab">https://st.1024.cab</a>
       <br>
     </p>
   </div>
